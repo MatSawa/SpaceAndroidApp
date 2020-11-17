@@ -1,0 +1,5 @@
+<resources>
+    <string name="error_launch">Error launch</string>
+    <string name="error_empty">Empty list</string>
+    <string name="launch_title">Launch: %s, Date: %s</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Title" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textSize">@dimen/font_big</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/roboto</item>
+    </style>
+
+    <style name="Body" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textSize">@dimen/font_normal</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/roboto_thin</item>
+    </style>
+
+    <style name="CircleImage">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="CornerImage">
+        <item name="cornerSize">10%</item>
+    </style>
+</resources>

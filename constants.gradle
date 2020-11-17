@@ -1,0 +1,4 @@
+ext.urls = [
+        productionApi : '"https://api.spacexdata.com/"',
+        developmentApi: '"https://api.spacexdata.com/"'
+]

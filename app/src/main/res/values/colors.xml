@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#00bcd4</color>
+    <color name="primaryLightColor">#62efff</color>
+    <color name="primaryDarkColor">#008ba3</color>
+    <color name="secondaryColor">#00bcd4</color>
+    <color name="secondaryLightColor">#62efff</color>
+    <color name="secondaryDarkColor">#008ba3</color>
+    <color name="primaryTextColor">#eeeeee</color>
+    <color name="secondaryTextColor">#fafafa</color>
+    <color name="gray_100">#f5f5f5</color>
+    <color name="blue_grey_300">#eeeeee</color>
+    <color name="blue_grey_100">#fafafa</color>
+    <color name="blue_grey_700">#455a64</color>
+    <color name="blue_grey_800">#37474f</color>
+</resources>
